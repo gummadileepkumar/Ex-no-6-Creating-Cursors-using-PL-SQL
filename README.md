@@ -40,8 +40,10 @@ close employee_cursor;
 ```
   
 ## Output:
-![image](https://github.com/Priya-Loganathan/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/121166075/e655a5ac-9dc5-4361-9612-1979d0c8aed0)
-![image](https://github.com/Priya-Loganathan/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/121166075/b3fab0d1-9d58-49d8-9eb2-8af85596a7cb)
+![dbms_6 1](https://github.com/gummadileepkumar/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/118707761/e4a37a09-d350-4cd7-9124-062b3c13f105)
+![dbms_6 2](https://github.com/gummadileepkumar/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/118707761/09435b55-fa31-41b9-a0f0-c4df89a377a1)
+
+
 
 ## Result:
 Thus, a cursor is created using PL/SQL.
